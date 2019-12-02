@@ -1,0 +1,9 @@
+<?php 
+
+?>
+
+<html>
+<head>
+
+<title>ICT Asset Management System</title>
+<head>
